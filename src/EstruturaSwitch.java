@@ -25,7 +25,6 @@ public class EstruturaSwitch {
 			break;
 		default:
 			System.out.println("Opção inválida");
-			break;
 		}
 
 		leitor.close();
